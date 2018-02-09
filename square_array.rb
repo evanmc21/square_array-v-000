@@ -4,5 +4,5 @@ square_ray = []
   array.each do |element|
     square_ray(element ** 2)
   end
-  array.each
+  square_ray
 end
